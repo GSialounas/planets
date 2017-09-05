@@ -1,1 +1,4 @@
-First day: Git lesson
+First day: Git lesson. More things on first line
+More things on second line
+More things ...
+
